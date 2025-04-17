@@ -7,7 +7,3 @@ predictive model is built on different machine learning algorithms.
 The concerned authority monitor this flood prediction system
 through a web application.
 
-how to run 
-first run the data base server
-run in VS code or in cmd prompt python app.py
-you will get a link by following into it we are going into the portal
